@@ -1,3 +1,3 @@
 # RepoThree
 Third repo
-has been created
+is now available
